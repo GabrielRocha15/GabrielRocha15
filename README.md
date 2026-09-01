@@ -211,8 +211,8 @@ O objetivo é investigar possíveis relações entre aspectos da operação log�
 | ---------- | ---------------------------------- | :---------: |
 | **Mês 1**  | 🐍 Python para Dados               | ✅ Concluído |
 | **Mês 2**  | 📊 Estatística                     | ✅ Concluído |
-| **Mês 3**  | 📚 Próxima etapa do roadmap        |  ⏳ Pendente |
-| **Mês 4**  | 📚 Próxima etapa do roadmap        |  ⏳ Pendente |
+| **Mês 3**  | 📚 SQl Avançado                    |  ⏳ Pendente |
+| **Mês 4**  | 📚 Git/GitHub                      |  ⏳ Pendente |
 | **Mês 5+** | 🚀 Evolução em Engenharia de Dados |  ⏳ Pendente |
 
 ### 🎯 Progresso atual
@@ -221,7 +221,7 @@ O objetivo é investigar possíveis relações entre aspectos da operação log�
 
 ```text
 Mês 1  ████████████████████ 100%
-Mês 2  ████████████████████ 100%
+Mês 2  ███████████████████   90%
 Mês 3  ░░░░░░░░░░░░░░░░░░░░   0%
 Mês 4  ░░░░░░░░░░░░░░░░░░░░   0%
 ```
