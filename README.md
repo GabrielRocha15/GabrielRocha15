@@ -263,7 +263,7 @@ Quero desenvolver projetos que demonstrem não apenas o conhecimento de ferramen
 
 🐙 **GitHub:** [GabrielRocha15](https://github.com/GabrielRocha15)
 
-💼 **LinkedIn:** *https://www.linkedin.com/in/gabriel-rocha-50a0b0320?utm_source=share_via&utm_content=profile&utm_medium=member_ios*
+💼 **LinkedIn:** *[Gabriel Rocha](https://www.linkedin.com/in/gabriel-rocha-50a0b0320?utm_source=share_via&utm_content=profile&utm_medium=member_ios)*
 
 📧 **E-mail:** *gahrocha59@gmail.com*
 
