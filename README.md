@@ -129,9 +129,9 @@ As demais etapas do roadmap serão adicionadas conforme forem concluídas.
 ```text
 Mês 1 — Python para Dados       ✅ Concluído
 Mês 2 — Estatística             ✅ Concluído
-Mês 3                            ⏳ Pendente
-Mês 4                            ⏳ Pendente
-Mês 5                            ⏳ Pendente
+Mês 3 — SQL Avançado             ⏳ Pendente
+Mês 4 — Git/GitHub               ⏳ Pendente
+Mês 5 — Engenheiro de Dados      ⏳ Pendente
 ...                              ⏳ Pendente
 ```
 
@@ -261,9 +261,9 @@ Quero desenvolver projetos que demonstrem não apenas o conhecimento de ferramen
 
 🐙 **GitHub:** [GabrielRocha15](https://github.com/GabrielRocha15)
 
-💼 **LinkedIn:** *Adicionar link*
+💼 **LinkedIn:** *https://www.linkedin.com/in/gabriel-rocha-50a0b0320?utm_source=share_via&utm_content=profile&utm_medium=member_ios*
 
-📧 **E-mail:** *Adicionar e-mail profissional*
+📧 **E-mail:** *gahrocha59@gmail.com*
 
 ---
 
