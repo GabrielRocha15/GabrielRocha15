@@ -110,13 +110,13 @@ Minha formação segue uma evolução gradual: primeiro construo uma base sólid
 
 ### 🚀 Projeto
 
-**[📊 E-commerce & Logística — em desenvolvimento](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)**
+**[📊 E-commerce & Logística](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)**
 
 ---
 
 ## ⏳ Mês 3
 
-**Status: Pendente**
+**Status: Em Desenvolvimento**
 
 Próxima etapa do roadmap.
 
@@ -172,9 +172,9 @@ Projeto desenvolvido durante o primeiro mês do roadmap, utilizando Python para 
 
 ---
 
-## 🟡 Projeto 02 — E-commerce & Logística
+## 🟢 Projeto 02 — E-commerce & Logística
 
-**Status: Em desenvolvimento**
+**Status: Concluído**
 
 🔗 **[Acessar projeto no GitHub](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)**
 
@@ -221,7 +221,7 @@ O objetivo é investigar possíveis relações entre aspectos da operação log�
 
 ```text
 Mês 1  ████████████████████ 100%
-Mês 2  ███████████████████   90%
+Mês 2  ████████████████████  90%
 Mês 3  ░░░░░░░░░░░░░░░░░░░░   0%
 Mês 4  ░░░░░░░░░░░░░░░░░░░░   0%
 ```
@@ -234,7 +234,7 @@ Mês 4  ░░░░░░░░░░░░░░░░░░░░   0%
 | Projeto                                                                        | Status                | Foco                             |
 | ------------------------------------------------------------------------------ | --------------------- | -------------------------------- |
 | 🌦️ [Projeto Open-Meteo](https://github.com/GabrielRocha15/projeto-open-meteo) | 🟢 Concluído          | Python, Pandas, NumPy, APIs      |
-| 📊 [E-commerce & Logística](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)                                                      | 🟡 Em desenvolvimento | Estatística, análise e dashboard |
+| 📊 [E-commerce & Logística](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)                                                      | 🟢 Concluído          | Estatística, análise e dashboard |
 | 🚀 Próximos projetos                                                           | ⚪ Planejado           | Conforme roadmap                 |
 
 ---
