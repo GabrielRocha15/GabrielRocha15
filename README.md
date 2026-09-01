@@ -244,7 +244,7 @@ O objetivo é investigar possíveis relações entre aspectos da operação log�
 | Projeto                                                                        | Status                | Foco                             |
 | ------------------------------------------------------------------------------ | --------------------- | -------------------------------- |
 | 🌦️ [Projeto Open-Meteo](https://github.com/GabrielRocha15/projeto-open-meteo) | 🟢 Concluído          | Python, Pandas, NumPy, APIs      |
-| 📊 E-commerce & Logística                                                      | 🟡 Em desenvolvimento | Estatística, análise e dashboard |
+| 📊 [E-commerce & Logística](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)                                                      | 🟡 Em desenvolvimento | Estatística, análise e dashboard |
 | 🚀 Próximos projetos                                                           | ⚪ Planejado           | Conforme roadmap                 |
 
 ---
