@@ -207,36 +207,26 @@ O objetivo é investigar possíveis relações entre aspectos da operação log�
 
 # 📈 Minha evolução
 
+| Etapa      | Foco                               |    Status   |
+| ---------- | ---------------------------------- | :---------: |
+| **Mês 1**  | 🐍 Python para Dados               | ✅ Concluído |
+| **Mês 2**  | 📊 Estatística                     | ✅ Concluído |
+| **Mês 3**  | 📚 Próxima etapa do roadmap        |  ⏳ Pendente |
+| **Mês 4**  | 📚 Próxima etapa do roadmap        |  ⏳ Pendente |
+| **Mês 5+** | 🚀 Evolução em Engenharia de Dados |  ⏳ Pendente |
+
+### 🎯 Progresso atual
+
+**2 etapas concluídas** de um roadmap em evolução.
+
 ```text
-                         🚀 DATA ENGINEER
-                               │
-                               ▼
-                 ┌─────────────────────────┐
-                 │ MÊS 1                   │
-                 │ 🐍 Python para Dados    │
-                 │           ✅            │
-                 └────────────┬────────────┘
-                              │
-                              ▼
-                 ┌─────────────────────────┐
-                 │ MÊS 2                   │
-                 │ 📊 Estatística         │
-                 │           ✅            │
-                 └────────────┬────────────┘
-                              │
-                              ▼
-                 ┌─────────────────────────┐
-                 │ MÊS 3                   │
-                 │ ⏳ Pendente             │
-                 └────────────┬────────────┘
-                              │
-                              ▼
-                 ┌─────────────────────────┐
-                 │ PRÓXIMAS ETAPAS         │
-                 │ ⏳ Pendente             │
-                 └─────────────────────────┘
+Mês 1  ████████████████████ 100%
+Mês 2  ████████████████████ 100%
+Mês 3  ░░░░░░░░░░░░░░░░░░░░   0%
+Mês 4  ░░░░░░░░░░░░░░░░░░░░   0%
 ```
 
+> O roadmap será atualizado conforme novas etapas forem concluídas.
 ---
 
 # 🗂️ Portfólio
