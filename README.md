@@ -110,7 +110,7 @@ Minha formação segue uma evolução gradual: primeiro construo uma base sólid
 
 ### 🚀 Projeto
 
-**📊 E-commerce & Logística — em desenvolvimento**
+**[📊 E-commerce & Logística — em desenvolvimento](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)**
 
 ---
 
@@ -175,6 +175,8 @@ Projeto desenvolvido durante o primeiro mês do roadmap, utilizando Python para 
 ## 🟡 Projeto 02 — E-commerce & Logística
 
 **Status: Em desenvolvimento**
+
+🔗 **[Acessar projeto no GitHub](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)**
 
 ### 🎯 Pergunta principal
 
