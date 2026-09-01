@@ -221,7 +221,7 @@ O objetivo é investigar possíveis relações entre aspectos da operação log�
 
 ```text
 Mês 1  ████████████████████ 100%
-Mês 2  ████████████████████  90%
+Mês 2  ████████████████████ 100%
 Mês 3  ░░░░░░░░░░░░░░░░░░░░   0%
 Mês 4  ░░░░░░░░░░░░░░░░░░░░   0%
 ```
