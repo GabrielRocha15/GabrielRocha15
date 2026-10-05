@@ -174,7 +174,7 @@ Projeto desenvolvido durante o primeiro mês do roadmap, utilizando Python para 
 
 ## 🟢 Projeto 02 — E-commerce & Logística
 
-**Status: Concluído**
+**Status: Concluído e publicado**
 
 🔗 **[Acessar projeto no GitHub](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)**
 
