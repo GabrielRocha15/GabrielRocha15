@@ -224,6 +224,38 @@ O objetivo é investigar possíveis relações entre aspectos da operação log�
 * Transformar os resultados em insights
 
 ---
+## 🟢 Projeto 04 — Versionamento e Colaboração com Git/GitHub
+
+**Status: Concluído**
+
+🔗 **[Acessar projeto no GitHub](LINK_DO_REPOSITORIO)**
+
+### 🎯 Objetivo principal
+
+> **Como utilizar Git e GitHub para controlar versões, organizar projetos e facilitar a colaboração no desenvolvimento de software?**
+
+Projeto de aprendizado prático desenvolvido para aplicar os conceitos de controle de versão utilizando Git e GitHub.
+
+O objetivo é compreender o fluxo de versionamento de código, desde a criação de repositórios locais até a publicação e gerenciamento de projetos remotos, explorando recursos de colaboração e organização.
+
+### 🔧 Tecnologias atuais
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-222222?style=flat-square&logo=openssh&logoColor=white)
+
+### 📌 Objetivos
+
+* Compreender os fundamentos do controle de versão
+* Criar e gerenciar repositórios locais e remotos
+* Registrar alterações utilizando commits
+* Consultar e comparar históricos de versões
+* Trabalhar com branches e merge
+* Configurar autenticação SSH
+* Sincronizar projetos com o GitHub
+* Utilizar Pull Requests e revisão de código
+* Gerenciar versões utilizando Tags e Releases
+* Conhecer recursos de automação com GitHub Actions e CI/CD
 
 # 📈 Minha evolução
 
@@ -255,7 +287,7 @@ Mês 4  ████████████████████ 100%
 | ------------------------------------------------------------------------------ | --------------------- | -------------------------------- |
 | 🌦️ [Projeto Open-Meteo](https://github.com/GabrielRocha15/projeto-open-meteo) | 🟢 Concluído          | Python, Pandas, NumPy, APIs      |
 | 📊 [E-commerce & Logística](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)                                                      | 🟢 Concluído          | Estatística, análise e dashboard |
-| 📚 [Guia de Estudos GIT/GITHUB](https://github.com/GabrielRocha15/projeto-open-meteo) | 🟢 Concluído          | GIT/GITHUB      |
+| 📚 [Guia de Estudos GIT/GITHUB](https://github.com/GabrielRocha15/Guia-GIT-GITHUB) | 🟢 Concluído          | GIT/GITHUB      |
 | 🚀 Próximos projetos                                                           | ⚪ Planejado           | Conforme roadmap                 |
 
 ---
