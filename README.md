@@ -122,6 +122,26 @@ Próxima etapa do roadmap.
 
 ---
 
+## ✅ Mês 4 — Git e GitHub
+
+**Status: Concluído**
+
+### Conteúdos estudados
+
+* Fundamentos de controle de versão
+* Instalação e configuração do Git
+* Criação e gerenciamento de repositórios
+* Commits e histórico de versões
+* Comandos Git (add, commit, status, log, diff, reset)
+* Branches e Merge
+* Integração entre Git local e GitHub
+* Autenticação SSH
+* Pull Requests
+* Releases e Tags
+* Introdução ao CI/CD e GitHub Actions
+
+---
+
 ## ⏳ Próximas etapas
 
 As demais etapas do roadmap serão adicionadas conforme forem concluídas.
@@ -130,7 +150,7 @@ As demais etapas do roadmap serão adicionadas conforme forem concluídas.
 Mês 1 — Python para Dados       ✅ Concluído
 Mês 2 — Estatística             ✅ Concluído
 Mês 3 — SQL Avançado             ⏳ Pendente
-Mês 4 — Git/GitHub               ⏳ Pendente
+Mês 4 — Git/GitHub              ✅ Concluído
 Mês 5 — Engenheiro de Dados      ⏳ Pendente
 ...                              ⏳ Pendente
 ```
@@ -212,7 +232,7 @@ O objetivo é investigar possíveis relações entre aspectos da operação log�
 | **Mês 1**  | 🐍 Python para Dados               | ✅ Concluído |
 | **Mês 2**  | 📊 Estatística                     | ✅ Concluído |
 | **Mês 3**  | 📚 SQl Avançado                    |  ⏳ Pendente |
-| **Mês 4**  | 📚 Git/GitHub                      |  ⏳ Pendente |
+| **Mês 4**  | 📚 Git/GitHub                      | ✅ Concluído |
 | **Mês 5+** | 🚀 Evolução em Engenharia de Dados |  ⏳ Pendente |
 
 ### 🎯 Progresso atual
@@ -223,7 +243,7 @@ O objetivo é investigar possíveis relações entre aspectos da operação log�
 Mês 1  ████████████████████ 100%
 Mês 2  ████████████████████ 100%
 Mês 3  ░░░░░░░░░░░░░░░░░░░░   0%
-Mês 4  ░░░░░░░░░░░░░░░░░░░░   0%
+Mês 4  ████████████████████ 100%
 ```
 
 > O roadmap será atualizado conforme novas etapas forem concluídas.
@@ -235,6 +255,7 @@ Mês 4  ░░░░░░░░░░░░░░░░░░░░   0%
 | ------------------------------------------------------------------------------ | --------------------- | -------------------------------- |
 | 🌦️ [Projeto Open-Meteo](https://github.com/GabrielRocha15/projeto-open-meteo) | 🟢 Concluído          | Python, Pandas, NumPy, APIs      |
 | 📊 [E-commerce & Logística](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce)                                                      | 🟢 Concluído          | Estatística, análise e dashboard |
+| 📚 [Guia de Estudos GIT/GITHUB](https://github.com/GabrielRocha15/projeto-open-meteo) | 🟢 Concluído          | GIT/GITHUB      |
 | 🚀 Próximos projetos                                                           | ⚪ Planejado           | Conforme roadmap                 |
 
 ---
