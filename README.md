@@ -267,7 +267,8 @@ Projeto de análise de dados desenvolvido a partir de um dataset público de e-c
 
 ## 🟢 Projeto 03 — Banco de Dados de Produção Têxtil
 
-**Status: Desenvolvido**
+**Status: Conclúido e publicado**
+🔗 **[Acessar projeto no GitHub](https://github.com/GabrielRocha15/projeto_producao_textil)**
 
 ### 🎯 Objetivo principal
 
@@ -360,7 +361,7 @@ Mês 5  ░░░░░░░░░░░░░░░░░░░░   0%
 |---|---|---|
 | 🌦️ [Projeto Open-Meteo](https://github.com/GabrielRocha15/projeto-open-meteo) | 🟢 Concluído | Python, Pandas, NumPy e APIs |
 | 📊 [E-commerce & Logística](https://github.com/GabrielRocha15/projeto-dashboard-ecommerce) | 🟢 Concluído | Estatística, análise e dashboard |
-| 🗄️ [Projeto de Produção Têxtil]() | 🟢 Desenvolvido | PostgreSQL, modelagem e SQL analítico |
+| 🗄️ [Projeto de Produção Têxtil](https://github.com/GabrielRocha15/projeto_producao_textil) | 🟢 Desenvolvido | PostgreSQL, modelagem e SQL analítico |
 | 📚 [Guia de Estudos Git/GitHub](https://github.com/GabrielRocha15/Guia-GIT-GITHUB) | 🟢 Concluído | Git e GitHub |
 | 🚀 Próximos projetos | ⚪ Planejado | Conforme roadmap |
 
