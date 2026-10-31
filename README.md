@@ -160,7 +160,7 @@ Desenvolvimento de um banco de dados relacional em PostgreSQL para representar e
 
  ### 🚀 Projeto
 
-**[🌦️ Projeto producao_textil]((https://github.com/GabrielRocha15/projeto_producao_textil)**
+**[Projeto producao_textil](https://github.com/GabrielRocha15/projeto_producao_textil)**
 
 ---
 
