@@ -158,6 +158,10 @@ Desenvolvimento de um banco de dados relacional em PostgreSQL para representar e
 
 > Os dados do projeto são fictícios e foram criados para fins de estudo. Os indicadores representam análises sobre essa base simulada.
 
+ ### 🚀 Projeto
+
+**[🌦️ Projeto producao_textil]((https://github.com/GabrielRocha15/projeto_producao_textil)**
+
 ---
 
 ## ✅ Mês 4 — Git e GitHub
@@ -298,7 +302,7 @@ Projeto desenvolvido durante o Mês 3 do roadmap, utilizando PostgreSQL para mod
 
 ## 🟢 Projeto 04 — Versionamento e Colaboração com Git/GitHub
 
-**Status: Concluído**
+**Status: Concluído e publicado**
 
 🔗 **[Acessar projeto no GitHub](https://github.com/GabrielRocha15/Guia-GIT-GITHUB)**
 
